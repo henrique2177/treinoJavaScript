@@ -1,4 +1,4 @@
-<h1 style= "color=red"> Bem vindo ao treinamento de JavaScript</h1>
+<h1 style="color: red;"> Bem vindo ao treinamento de JavaScript</h1>
 
 <h2>Como executar o projeto</h2>
 
